@@ -1,0 +1,51 @@
+# 前端界面
+streamlit==1.55.0
+
+# 配置文件处理
+PyYAML==6.0.3
+python-dotenv==1.0.1
+
+# LangChain
+langchain==1.2.18
+langchain-core==1.4.0
+langchain-text-splitters==1.1.1
+langchain-community==0.4.1
+langsmith==0.7.22
+LangGraph
+langgraph==1.1.10
+
+# 向量数据库
+chromadb==1.5.5
+langchain-chroma==1.1.0
+
+# LLM 集成
+langchain-openai==1.2.1
+langchain-ollama==1.0.1
+openai==2.36.0
+ollama==0.6.1
+
+# 嵌入与检索
+sentence-transformers==5.4.1
+transformers==5.5.4
+tokenizers==0.22.2
+tiktoken==0.12.0
+rank-bm25==0.2.2
+faiss-cpu==1.13.2
+
+# 文档加载与处理
+pypdf==6.9.0
+python-docx==1.2.0
+
+# 数据处理
+numpy==1.26.4
+pandas==2.1.4
+
+# 网络请求
+requests==2.32.5
+httpx==0.28.1
+
+# 工具与依赖
+tqdm==4.67.3
+
+
+
