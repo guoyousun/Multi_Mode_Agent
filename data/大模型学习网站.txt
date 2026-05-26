@@ -1,6 +1,0 @@
-（AI大模型全栈课程思维导图）https://www.processon.com/view/link/68788fbdfde4f212dec4b4ee
-（AI大模型面试核心点）https://www.yuque.com/aaron-wecc3/dhluml/rdguqsoqntk48ftz
-（字节跳动 RAG实践手册）https://docs.qq.com/doc/DSXJiaE5taUtaVGx6?_t=1772615358590&nlc=1
-（字节跳动 Agent实践手册）https://docs.qq.com/doc/DSWNsek1jQVRzY09V
-（字节跳动 SQL使用手册）https://docs.qq.com/doc/DSUZpanNCekVGZEFi
-（Git零基础实战手册）https://docs.qq.com/doc/DSW5Ha2VYVWVPTEdk
